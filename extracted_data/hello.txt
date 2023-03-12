@@ -1,0 +1,3 @@
+Hello my name is durani mohammed zaeem 
+I love Python, PHP, C++, Bash, and R
+I am studying in FYCS
